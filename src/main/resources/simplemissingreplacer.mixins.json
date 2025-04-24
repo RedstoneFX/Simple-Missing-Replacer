@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "net.silvercd.simplemissingreplacer.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [
+  ],
+  "mixins": [
+    "TestMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
